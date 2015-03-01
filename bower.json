@@ -1,0 +1,26 @@
+{
+  "name": "wablab",
+  "version": "1.0.0",
+  "homepage": "https://github.com/wab/wablab",
+  "authors": [
+    "wab <contact@wabdesign.fr>"
+  ],
+  "description": "wablab front dependencies",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.2",
+    "jquery": "~2.1.3",
+    "font-awesome": "~4.3.0",
+    "foundation": "~5.5.1"
+  }
+}
